@@ -1,0 +1,7 @@
+git clone https://github.com/jay/jay.github..git
+cd jay.github.io
+＃ 〜/jay.github.io
+echo "hello github"> index.html
+git add .
+git commit -m "F
+git push
